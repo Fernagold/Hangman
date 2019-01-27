@@ -12,3 +12,36 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+#letters {
+  font-size: 30px;
+  font-style: italic;
+}
+.riskLetter {
+  /* text-decoration: line-through; */
+  color: rgb(214, 203, 203);
+  
+}
+.green {
+  color: green
+}
+.orange {
+  color: orange
+}
+.red {
+  color: red
+}
+.container {
+
+  margin-left: 22%;
+  position: absolute;
+  padding: 20px;
+  box-shadow: 5px 5px rgb(219, 211, 211);
+  border: 2px;
+  border-color: rgb(8, 8, 85);
+  border-style: groove;
+  
+  
+}
+.forca {
+  margin-left: 300px
+}
